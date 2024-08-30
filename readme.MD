@@ -1,6 +1,13 @@
 # Catinder
 
 Catinder is a mobile application built with React Native and Expo, where users can browse and match with adorable cats available.
+
+<div align="center">
+  <img alt="Rafael Ferreira" src="https://i.imgur.com/S1aBE6X.gif" width="auto">
+</div>
+
+<br>
+
 ## Table of Contents
 
 - [Features](#features)
